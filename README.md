@@ -1,5 +1,3 @@
-# Joke-API
-dad jokes
 import requests
 
 url = "https://icanhazdadjoke.com/"
